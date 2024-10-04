@@ -26,7 +26,9 @@ function App() {
   };
 
   return (
+    
     <div className="calculator">
+      <h1>React Calculator</h1>
       <div className="display">{input}</div>
 
       <div className="buttons">
